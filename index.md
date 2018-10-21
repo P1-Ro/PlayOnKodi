@@ -87,9 +87,11 @@ Coming soon...
 	<p>
 		The owner of PlayOnKodi app wants to indicate the following: there is no copyright protected content stored in PlayOnKodi app.
 		All offered files are stored on external file hosts that are in no way associated with PlayOnKodi.
+		
 		If you are a rights holder of a file listed here, do not contact us, but the providers on whose servers any copyrighted material is stored.
 		PlayOnKodi offers, acting like a search engine, only links to files and not the files themself,
 		this is the reason why the owners of this website are not responsible and according to Teleservices Act also can not be held liable.
+		
 		We dissociate ourselves from the contents and have no influence on it. PlayOnKodi is merely a facilitator of external content,
 		for legally protected content the providers hosting this content (filehosters) are responsible.
 	</p>
