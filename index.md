@@ -15,10 +15,10 @@ Furthermore you can share Youtube videos (or any mp4 file on internet) into Play
 1. [Enable installation of apps from Unknown Sources](https://www.applivery.com/docs/troubleshooting/android-unknown-sources)
 2. Download [PlayOnKodi](play-on-kodi-update-server.herokuapp.com/download/latest/sk.p1ro.playonkodi)
 3. Install downloaded app
-4. If you plan to use it Kodi fill in Ip and port of Kodi
+4. If you plan to use it Kodi (fill in Ip and port of Kodi)[#address]
 	* Optionally install (Kodi addon)[#kodi-addon]
-5. Login to Trackseries
-6. Add Tv Shows to your list
+5. (Login to Trackseries)[#login]
+6. (Add Tv Shows to your list)[#new]
 7. Enjoy
 	
 ## Security concerns
@@ -46,19 +46,19 @@ Coming soon...
 ## FAQ
 
 <details>
-	<summary>How to login into TrackSeries</summary>
+	<summary id="login">How to login into TrackSeries</summary>
 	<p>
 	</p>
 </details>
 
 <details>
-	<summary>How to fill Ip address and Port</summary>
+	<summary id="address">How to fill Ip address and Port</summary>
 	<p>
 	</p>
 </details>
 
 <details>
-	<summary>How to add new TV Show</summary>
+	<summary id="new">How to add new TV Show</summary>
 	<p>
 	</p>
 </details>
