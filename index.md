@@ -82,10 +82,8 @@ Coming soon...
 </details>
 
 
-
-
 <details>
-	<summary>DMCA</summary>
+	<summary><h2>DMCA</h2></summary>
 	<p>
 		The owner of PlayOnKodi app wants to indicate the following: there is no copyright protected content stored in PlayOnKodi app.
 		All offered files are stored on external file hosts that are in no way associated with PlayOnKodi.
