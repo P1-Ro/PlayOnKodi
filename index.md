@@ -1,5 +1,4 @@
-<script type="text/javascript src="/assets/js/index.js"></script>
-
+<script src="assets/js/index.js"></script>
 **PlayOnKodi** is android app that aims to help you watch your favorite TV Shows with ease and for free.
 It keeps track of your watched episoded and lets you play next one with single tap.
 
@@ -25,11 +24,12 @@ Even email and password, when you are logging into Trackseries, arn't stored on 
 At first start there prompt to access external storage, this is needed only for downloading subtitles to your device when watching TV shows locally.
 
 ## Screenshots
-![](/assets/images/1.png)
-![](/assets/images/2.png)
-![](/assets/images/3.png)
-![](/assets/images/4.png)
-![](/assets/images/5.png)
+<img src="assets/images/1.png"/>
+![](assets/images/1.png)
+![](assets/images/2.png)
+![](assets/images/3.png)
+![](assets/images/4.png)
+![](assets/images/5.png)
 
 ## Kodi addon (optional)
 
