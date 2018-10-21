@@ -35,25 +35,64 @@ At first start there prompt to access external storage, this is needed only for 
 	<a href="assets/images/4.png"><img src="assets/images/thumb/4.jpg" alt=""></a>
 	<a href="assets/images/5.png"><img src="assets/images/thumb/5.jpg" alt=""></a>
 	<div class="clearing"></div>
-	<div class="caption">
-		Click on an image to see it in action
-	</div>
+	<small class="caption">
+		Click on an image to enlarge it.
+	</small>
 </div>
 
 ## Kodi addon (optional)
+Coming soon...
 
 ## FAQ
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
+<details>
+	<summary>How to login into TrackSeries</summary>
+	<p>
+	</p>
 </details>
 
-DMCA
+<details>
+	<summary>How to fill Ip address and Port</summary>
+	<p>
+	</p>
+</details>
+
+<details>
+	<summary>How to add new TV Show</summary>
+	<p>
+	</p>
+</details>
+
+<details>
+	<summary>What about updates ?</summary>
+	<p>
+	</p>
+</details>
+
+<details>
+	<summary>How to check for updates ?</summary>
+	<p>
+	</p>
+</details>
+
+<details>
+	<summary>Why not using Google Play ?</summary>
+	<p>
+	</p>
+</details>
+
+
+
+
+<details>
+	<summary>DMCA</summary>
+	<p>
+		The owner of PlayOnKodi app wants to indicate the following: there is no copyright protected content stored in PlayOnKodi app.
+		All offered files are stored on external file hosts that are in no way associated with PlayOnKodi.
+		If you are a rights holder of a file listed here, do not contact us, but the providers on whose servers any copyrighted material is stored.
+		PlayOnKodi offers, acting like a search engine, only links to files and not the files themself,
+		this is the reason why the owners of this website are not responsible and according to Teleservices Act also can not be held liable.
+		We dissociate ourselves from the contents and have no influence on it. PlayOnKodi is merely a facilitator of external content,
+		for legally protected content the providers hosting this content (filehosters) are responsible.
+	</p>
+</details>
