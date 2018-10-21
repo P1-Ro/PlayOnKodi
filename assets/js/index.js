@@ -4,4 +4,7 @@ window.onload = function(){
 	.then((response) => {
 		console.log("Ping completed")
 	});
+	
+	$('.gallery a').simpleLightbox();
+	
 }
