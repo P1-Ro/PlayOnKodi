@@ -16,7 +16,7 @@ Furthermore you can share Youtube videos (or any mp4 file on internet) into Play
 2. Download [PlayOnKodi](https://play-on-kodi-update-server.herokuapp.com/download/latest/sk.p1ro.playonkodi)
 3. Install downloaded app
 4. If you plan to use it Kodi [fill in Ip and port of Kodi](#address)
-	* Optionally install [Kodi addon](#kodi-addon)
+	* Optionally install [Kodi addon](#kodi-addon-optional)
 5. [Login to Trackseries](#login)
 6. [Add Tv Shows to your list](#new)
 7. Enjoy
