@@ -30,10 +30,10 @@ At first start there prompt to access external storage, this is needed only for 
 ## Screenshots
 <div class="gallery">
 	<a href="assets/images/1.jpg"><img src="assets/images/thumb/1.jpg" alt=""></a>
-	<a href="assets/images/1.jpg"><img src="assets/images/thumb/1.jpg" alt=""></a>
-	<a href="assets/images/1.jpg"><img src="assets/images/thumb/1.jpg" alt=""></a>
-	<a href="assets/images/1.jpg"><img src="assets/images/thumb/1.jpg" alt=""></a>
-	<a href="assets/images/1.jpg"><img src="assets/images/thumb/1.jpg" alt=""></a>
+	<a href="assets/images/2.jpg"><img src="assets/images/thumb/2jpg" alt=""></a>
+	<a href="assets/images/3.jpg"><img src="assets/images/thumb/3.jpg" alt=""></a>
+	<a href="assets/images/4.jpg"><img src="assets/images/thumb/4.jpg" alt=""></a>
+	<a href="assets/images/5.jpg"><img src="assets/images/thumb/5.jpg" alt=""></a>
 	<div class="clearing"></div>
 	<div class="caption">
 		Click on an image to see it in action
