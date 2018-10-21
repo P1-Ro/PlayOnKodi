@@ -1,5 +1,4 @@
-<script type="text/javascript src="/assets/js/index.js">
-</script>
+<script type="text/javascript src="/assets/js/index.js"></script>
 
 **PlayOnKodi** is android app that aims to help you watch your favorite TV Shows with ease and for free.
 It keeps track of your watched episoded and lets you play next one with single tap.
