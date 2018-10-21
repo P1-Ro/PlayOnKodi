@@ -1,5 +1,10 @@
-#PlayOnKodi
+PlayOnKodi is ..
 
+## Get started
+
+## Screenshots
+
+## Kodi addon (optional)
 
 ## FAQ
 
