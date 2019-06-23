@@ -23,7 +23,7 @@ Furthermore you can share Youtube videos (or any mp4 file on internet) into Play
 	
 ## Security concerns
 This app doesn't store any data about you.
-Even email and password, when you are logging into Trackseries, arn't stored on device (or anywhere else).
+Email and password, when you are logging into Trackseries, aren't stored on device or anywhere else.
 
 At first start there prompt to access external storage, this is needed only for downloading subtitles to your device when watching TV shows locally.
 
@@ -41,43 +41,39 @@ At first start there prompt to access external storage, this is needed only for 
 </div>
 
 ## Kodi addon (optional)
-Coming soon...
+PlayOnKodi can download automatically right subtitles for episode you are watching.
+You can enable it with these two steps:
+ 1. In settings enable "Download subtitles automatically" 
+ 2. Install latest version of <a href="https://github.com/P1-Ro/script.playonkodi.urldownloader/releases">addon</a> on Kodi.
 
 ## FAQ
 
 <details>
-	<summary id="login">How to login into TrackSeries</summary>
+	<summary id="address">How to fill add Kodi</summary>
 	<p>
-	</p>
-</details>
-
-<details>
-	<summary id="address">How to fill Ip address and Port</summary>
-	<p>
+    1. Open drawer on the left side <br>
+    2. Open settings <br>
+	3. Open kodi settings <br>
+	4. Click plus button in right bottom corner <br>
+	5. Fill info about kodi and choose color <br>
+	6. Click "OK" <br>
 	</p>
 </details>
 
 <details>
 	<summary id="new">How to add new TV Show</summary>
 	<p>
+	    1. Click on "Magnifiing glass" icon <br>
+        2. Type in name of TV Show <br>
+    	3. Click search icon on your keyboard <br>
+    	4. Click on row with your TV Show <br>
 	</p>
 </details>
 
 <details>
 	<summary>What about updates ?</summary>
 	<p>
-	</p>
-</details>
-
-<details>
-	<summary>How to check for updates ?</summary>
-	<p>
-	</p>
-</details>
-
-<details>
-	<summary>Why not using Google Play ?</summary>
-	<p>
+	Updates are delivered automatically via our update server. When new version is available you'll get notification.
 	</p>
 </details>
 
