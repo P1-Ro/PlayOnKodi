@@ -29,11 +29,14 @@ At first start there prompt to access external storage, this is needed only for 
 
 ## Screenshots
 <div class="gallery">
-	<a href="assets/images/1.png"><img src="assets/images/thumb/1.jpg" alt=""></a>
-	<a href="assets/images/2.png"><img src="assets/images/thumb/2.jpg" alt=""></a>
-	<a href="assets/images/3.png"><img src="assets/images/thumb/3.jpg" alt=""></a>
-	<a href="assets/images/4.png"><img src="assets/images/thumb/4.jpg" alt=""></a>
-	<a href="assets/images/5.png"><img src="assets/images/thumb/5.jpg" alt=""></a>
+	<a href="assets/images/1.png"><img src="assets/images/thumb/1.png" alt=""></a>
+	<a href="assets/images/2.png"><img src="assets/images/thumb/2.png" alt=""></a>
+	<a href="assets/images/3.png"><img src="assets/images/thumb/3.png" alt=""></a>
+	<a href="assets/images/4.png"><img src="assets/images/thumb/4.png" alt=""></a>
+	<a href="assets/images/5.png"><img src="assets/images/thumb/5.png" alt=""></a>
+	<a href="assets/images/6.png"><img src="assets/images/thumb/6.png" alt=""></a>
+	<a href="assets/images/7.png"><img src="assets/images/thumb/7.png" alt=""></a>
+	<a href="assets/images/8.png"><img src="assets/images/thumb/8.png" alt=""></a>
 	<div class="clearing"></div>
 	<small class="caption">
 		Click on an image to enlarge it.
