@@ -47,7 +47,7 @@ At first start there prompt to access external storage, this is needed only for 
 PlayOnKodi can download automatically right subtitles for episode you are watching.
 You can enable it with these two steps:
  1. In settings enable "Download subtitles automatically" 
- 2. Install latest version of <a href="https://github.com/P1-Ro/script.playonkodi.urldownloader/releases">addon</a> on Kodi.
+ 2. Install <a href="https://github.com/P1-Ro/script.playonkodi.urldownloader/releases/latest">this addon</a> on Kodi. (If you want to checkout addon repo you can <a href="https://github.com/P1-Ro/script.playonkodi.urldownloader">here</a>)
 
 ## FAQ
 
